@@ -1,1 +1,2 @@
 # Income_Classification
+Will probably never touch the project again, but if you want to add to it, just add more data yourself or try out the input output to see if it guesses your income level. It's not insanely accurate and could obviously be better but this was a freshman year project. If you have any questions please reach out. 
